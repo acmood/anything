@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuItemShowDialog"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Show Dialog"/>
+    
+	<item android:id="@+id/menuItemShowToast"
+	    android:title="Show Toast" 
+	    android:orderInCategory="100"
+	    android:icon="@drawable/ic_launcher"/>
+</menu>

@@ -1,0 +1,6 @@
+<type 'dict'>
+200
+http://xinxi.zstu.edu.cn/
+0
+0
+1

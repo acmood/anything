@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Helloeoe/gen"/>
+	<classpathentry kind="src" path="Helloeoe/src"/>
+	<classpathentry kind="lib" path="Helloeoe/bin/dexedLibs/android-support-v4-7003e8ee8e91a269388e6878cc6af83a.jar"/>
+	<classpathentry kind="lib" path="Helloeoe/libs/android-support-v4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Helloeoe/bin/classes"/>
+</classpath>
